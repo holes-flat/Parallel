@@ -9,6 +9,7 @@
 int main(void){
     printf("a begining\t");
     printf("at github!\n");
+    printf("No~");
     return 0;
 }
 
