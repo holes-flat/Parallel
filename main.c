@@ -7,7 +7,8 @@
 
 #include <stdio.h>
 int main(void){
-    printf("a begining");
+    printf("a begining\t");
+    printf("at github!\n");
     return 0;
 }
 
